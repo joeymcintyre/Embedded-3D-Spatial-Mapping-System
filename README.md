@@ -87,7 +87,7 @@ Execution Steps:
 
 
 📜 Acknowledgements:
-- Course: COMPENG 2DX3 – Microprocessor Systems Project (Winter 2025)
+- Course: COMPENG 2DX3 – Microprocessor Systems Project
 - Instructors: Dr. Shahrukh Athar, Dr. Thomas Doyle, Dr. Yaser Haddara
 - Supported by McMaster University, Department of Electrical & Computer Engineering
 - Libraries: MacUILib, NumPy, Open3D
