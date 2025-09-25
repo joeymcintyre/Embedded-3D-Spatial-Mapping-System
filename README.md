@@ -17,7 +17,7 @@ The goal of this project was to design and implement a low-cost LIDAR-like devic
 
 Here’s the physical system setup:
 
-![3D Spatial Mapping System](system.jpg)
+![3D Spatial Mapping System](system.png)
 
 And here’s an example of the 3D mapping results:
 
