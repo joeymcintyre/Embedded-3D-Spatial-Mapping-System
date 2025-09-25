@@ -15,6 +15,13 @@ All project materials are included here:
 
 The goal of this project was to design and implement a low-cost LIDAR-like device capable of mapping hallways or rooms. Using a VL53L1X ToF sensor mounted on a 28BYJ-48 stepper motor, the system performs vertical plane scans and builds a full 3D reconstruction by integrating multiple slices along the X-axis.
 
+Here’s the physical system setup:
+
+![3D Spatial Mapping System](system.jpg)
+
+And here’s an example of the 3D mapping results:
+
+![3D Mapping Output](mapped results.png)
 
 ✨ Key Features:
 - Microcontroller: Texas Instruments MSP432E401Y ARM Cortex-M4F
