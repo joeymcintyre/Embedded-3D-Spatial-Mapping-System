@@ -9,10 +9,12 @@ All project materials are included here:
 - 💻 Embedded C code for MSP432E401Y
 
 - 🐍 Python scripts for data visualization (NumPy + Open3D)
+  
 
 📘 Project Overview:
 
 The goal of this project was to design and implement a low-cost LIDAR-like device capable of mapping hallways or rooms. Using a VL53L1X ToF sensor mounted on a 28BYJ-48 stepper motor, the system performs vertical plane scans and builds a full 3D reconstruction by integrating multiple slices along the X-axis.
+
 
 ✨ Key Features:
 - Microcontroller: Texas Instruments MSP432E401Y ARM Cortex-M4F
@@ -30,6 +32,7 @@ The goal of this project was to design and implement a low-cost LIDAR-like devic
 - Software:
   - Embedded C (Keil uVision 5)
   - Python 3.8+ (NumPy + Open3D)
+    
 
 ⚙️ System Design:
 
@@ -49,6 +52,7 @@ Data Acquisition:
 Visualization:
 - Uses NumPy for trig conversions.
 - Uses Open3D to generate interactive 3D models with point clouds + line meshes.
+  
 
 🚀 How to Run:
 
@@ -66,6 +70,7 @@ Execution Steps:
 - Press PJ1 button → system begins scan.
 - Repeat scans at fixed manual displacements (e.g., 300mm apart).
 - Final 3D map renders in Open3D interactive window.
+  
 
 📊 Results:
 - Successfully mapped assigned hallway (location D).
@@ -73,11 +78,13 @@ Execution Steps:
 - Produced accurate 3D reconstructions of walls, doors, and structural features.
 - Demonstrated robust UART communication and real-time PC visualization.
 
+
 ⚠️ Limitations:
 - Manual displacement along X-axis (no automated translation).
 - Stepper speed & ToF timing budget limited scan rate.
 - Quantization error: ~1mm per measurement.
 - UART limit: 115200 baud was the maximum stable communication rate.
+
 
 📜 Acknowledgements:
 - Course: COMPENG 2DX3 – Microprocessor Systems Project (Winter 2025)
