@@ -1,0 +1,65 @@
+Dependencies for Project '2dx_studio_8c', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6190000::V6.19::ARMCLANG
+F (.\PLL.c)(0x625505E9)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/pll.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+I (PLL.h)(0x625505E9)
+F (.\SysTick.c)(0x625505EB)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/systick.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+F (.\vl53l1_platform_2dx4.c)(0x64139FA2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/vl53l1_platform_2dx4.o -MD)
+I (tm4c1294ncpdt.h)(0x625505EE)
+I (vl53l1_platform_2dx4.h)(0x625505F0)
+I (vl53l1_types_2dx4.h)(0x641386CE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6388F1C8)
+I (onboardLEDs.h)(0x625505E8)
+I (SysTick.h)(0x625505EB)
+I (C:\Keil_v5\ARM\ARMCLANG\include\time.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\math.h)(0x6388F1C8)
+F (.\VL53L1X_api.c)(0x625505EF)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/vl53l1x_api.o -MD)
+I (VL53L1X_api.h)(0x625505EF)
+I (vl53l1_platform.h)(0x625505EF)
+I (vl53l1_types.h)(0x641386CE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6388F1C8)
+I (uart.h)(0x625505EE)
+F (.\onboardLEDs.c)(0x625505E8)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/onboardleds.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+I (tm4c1294ncpdt.h)(0x625505EE)
+I (SysTick.h)(0x625505EB)
+I (onboardLEDs.h)(0x625505E8)
+F (.\uart.c)(0x625505EE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/uart.o -MD)
+I (uart.h)(0x625505EE)
+I (tm4c1294ncpdt.h)(0x625505EE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388F1C8)
+F (.\2dx_studio_8c.c)(0x6413A014)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/2dx_studio_8c.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+I (PLL.h)(0x625505E9)
+I (SysTick.h)(0x625505EB)
+I (uart.h)(0x625505EE)
+I (onboardLEDs.h)(0x625505E8)
+I (tm4c1294ncpdt.h)(0x625505EE)
+I (VL53L1X_api.h)(0x625505EF)
+I (vl53l1_platform.h)(0x625505EF)
+I (vl53l1_types.h)(0x641386CE)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stddef.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x6388F1C8)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6388F1C8)
+F (RTE/Device/MSP432E401Y/startup_msp432e401y_uvision.s)(0x625505EA)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --diag_suppress=A1950W-I.\RTE\_Target_1-IC:\Users\TED\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\TED\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include--pd "__UVISION_VERSION SETA 538"--pd "_RTE_ SETA 1"--pd "_RTE_ SETA 1"--pd "__MSP432E401Y__ SETA 1"--list .\listings\startup_msp432e401y_uvision.lst--xref -o .\objects\startup_msp432e401y_uvision.o--depend .\objects\startup_msp432e401y_uvision.d)
+F (RTE/Device/MSP432E401Y/system_msp432e401y.c)(0x625505EA)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I C:/Keil_v5/ARM/ARMCLANG/include-I./RTE/_Target_1-IC:/Users/TED/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/TED/AppData/Local/Arm/Packs/TexasInstruments/MSP432E4_DFP/3.2.6/Device/Include-D__UVISION_VERSION="538" -D_RTE_ -D_RTE_ -D__MSP432E401Y__-o ./objects/system_msp432e401y.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6388F1C8)
+I (C:\Users\TED\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include\msp.h)(0x5B69EB4C)
+I (C:\Users\TED\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include\msp432e401y.h)(0x5BC0F09E)
+I (C:\Users\TED\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626FF39E)
+I (C:\Users\TED\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FF39E)
+I (C:\Users\TED\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FF39E)
+I (C:\Users\TED\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626FF39E)
+I (C:\Users\TED\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FF39E)
+I (C:\Users\TED\AppData\Local\Arm\Packs\TexasInstruments\MSP432E4_DFP\3.2.6\Device\Include\system_msp432e401y.h)(0x5B69EB4C)
