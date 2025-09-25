@@ -21,7 +21,7 @@ Here’s the physical system setup:
 
 And here’s an example of the 3D mapping results:
 
-![3D Mapping Output](mapped results.png)
+![3D Mapping Output](mapped_results.png)
 
 ✨ Key Features:
 - Microcontroller: Texas Instruments MSP432E401Y ARM Cortex-M4F
