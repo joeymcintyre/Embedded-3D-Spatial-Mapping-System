@@ -1,6 +1,6 @@
 # Embedded 3D Spatial Mapping System
 
-This repository contains the final project for COMPENG 2DX3: an Embedded 3D Spatial Mapping System. The system integrates a Time-of-Flight (ToF) sensor, stepper motor, and ARM Cortex-M4F microcontroller to capture spatial measurements and reconstruct a 3D model of an indoor environment on a PC.
+This repository contains the final project for COMPENG 2DX3: an Embedded 3D Spatial Mapping System. The system integrates a Time-of-Flight (ToF) sensor, stepper motor, and MSP432E401Y microcontroller to capture spatial measurements and reconstruct a 3D model of an indoor environment on a PC.
 
 All project materials are included here:
 
